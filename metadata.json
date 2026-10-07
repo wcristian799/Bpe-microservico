@@ -1,0 +1,8 @@
+{
+  "name": "Microserviço BP-e SEFAZ",
+  "description": "Microserviço completo para emissão, assinatura digital A1, comunicação SEFAZ-PA (SVRS) e geração de DABPE para Bilhete de Passagem Eletrônico (BP-e mod 63) em Belém-PA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
